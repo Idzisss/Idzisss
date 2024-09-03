@@ -1,0 +1,4 @@
+    "experimentalFeatures": {
+        "configureSelfElevate": true,
+        "configureExport": true
+    }
